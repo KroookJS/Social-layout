@@ -4,7 +4,7 @@ export const CreatePost = () => {
       <h3 className="mini-headign">Создать пост</h3>
       <div className="post-text">
         <img
-          src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/user.jpg"
+          src="https://raw.githubusercontent.com/KroookJS/Social-layout/main/src/assets/images/user.jpg"
           alt="user"
         />
         <input type="text-area" placeholder="Расскажи о своем проекте" />

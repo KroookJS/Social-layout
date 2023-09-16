@@ -9,7 +9,7 @@ export const PopularGroups = () => {
         </li>
         <li>
           <img
-            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/group.jpg"
+            src="https://raw.githubusercontent.com/KroookJS/Social-layout/main/src/assets/images/group.jpg"
             alt="groups"
           />
         </li>

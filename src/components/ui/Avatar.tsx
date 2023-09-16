@@ -12,7 +12,7 @@ export const Avatar: FC<AvatarParams> = ({ img, border }) => {
       src={
         img
           ? img
-          : "https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/user.jpg"
+          : "https://raw.githubusercontent.com/KroookJS/Social-layout/main/src/assets/images/user.jpg"
       }
       alt="user"
     />

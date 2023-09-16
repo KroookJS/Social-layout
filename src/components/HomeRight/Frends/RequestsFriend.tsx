@@ -3,7 +3,7 @@ export const RequestsFriend = () => {
     <>
       <li>
         <img
-          src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/user4.jpg"
+          src="https://raw.githubusercontent.com/KroookJS/Social-layout/main/src/assets/images/user4.jpg"
           alt="user"
         />
       </li>

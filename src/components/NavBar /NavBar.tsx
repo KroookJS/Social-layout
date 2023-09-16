@@ -45,7 +45,7 @@ export const NavBar: FC<NavBarParams> = ({ isBurger, setIsActiveburger }) => {
         <h4 className="mini-headign">Направления</h4>
         <label>
           <img
-            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/gg.png"
+            src="https://raw.githubusercontent.com/KroookJS/Social-layout/main/src/assets/images/gg.png"
             alt="group01"
           />
           <span>Графический дизайн</span>
@@ -53,7 +53,7 @@ export const NavBar: FC<NavBarParams> = ({ isBurger, setIsActiveburger }) => {
 
         <label>
           <img
-            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/gg2.png"
+            src="https://raw.githubusercontent.com/KroookJS/Social-layout/main/src/assets/images/gg2.png"
             alt="group02"
           />
           <span>Веб дизайн</span>
@@ -61,7 +61,7 @@ export const NavBar: FC<NavBarParams> = ({ isBurger, setIsActiveburger }) => {
 
         <label>
           <img
-            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/gg3.png"
+            src="https://raw.githubusercontent.com/KroookJS/Social-layout/main/src/assets/images/gg3.png"
             alt="group03"
           />
           <span>Машинное обучение</span>
@@ -74,14 +74,14 @@ export const NavBar: FC<NavBarParams> = ({ isBurger, setIsActiveburger }) => {
         <h4 className="mini-headign">развивающие игры </h4>
         <label>
           <img
-            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/game.png"
+            src="https://raw.githubusercontent.com/KroookJS/Social-layout/main/src/assets/images/game.png"
             alt="game01"
           />
           <span>Kroook games</span>
         </label>
         <label>
           <img
-            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/game2.png"
+            src="https://raw.githubusercontent.com/KroookJS/Social-layout/main/src/assets/images/game2.png"
             alt="game02"
           />
           <span>Free Play Games</span>

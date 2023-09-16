@@ -13,7 +13,7 @@ export const MessageItem: FC<MessageItemParams> = ({ name, isOnline, img }) => {
         src={
           img
             ? img
-            : "https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/us2.png"
+            : "https://raw.githubusercontent.com/KroookJS/Social-layout/main/src/assets/images/us2.png"
         }
         alt="user"
       />
