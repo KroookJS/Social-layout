@@ -44,17 +44,26 @@ export const NavBar: FC<NavBarParams> = ({ isBurger, setIsActiveburger }) => {
       <div className="group">
         <h4 className="mini-headign">Направления</h4>
         <label>
-          <img src="src/assets/images/gg.png" alt="group01" />
+          <img
+            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/gg.png"
+            alt="group01"
+          />
           <span>Графический дизайн</span>
         </label>
 
         <label>
-          <img src="src/assets/images/gg2.png" alt="group02" />
+          <img
+            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/gg2.png"
+            alt="group02"
+          />
           <span>Веб дизайн</span>
         </label>
 
         <label>
-          <img src="src/assets/images/gg3.png" alt="group03" />
+          <img
+            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/gg3.png"
+            alt="group03"
+          />
           <span>Машинное обучение</span>
         </label>
 
@@ -64,11 +73,17 @@ export const NavBar: FC<NavBarParams> = ({ isBurger, setIsActiveburger }) => {
       <div className="games">
         <h4 className="mini-headign">развивающие игры </h4>
         <label>
-          <img src="src/assets/images/game.png" alt="game01" />
+          <img
+            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/game.png"
+            alt="game01"
+          />
           <span>Kroook games</span>
         </label>
         <label>
-          <img src="src/assets/images/game2.png" alt="game02" />
+          <img
+            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/game2.png"
+            alt="game02"
+          />
           <span>Free Play Games</span>
         </label>
         <BtnNavBar> Смотрите больше </BtnNavBar>

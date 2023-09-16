@@ -9,7 +9,14 @@ interface MessageItemParams {
 export const MessageItem: FC<MessageItemParams> = ({ name, isOnline, img }) => {
   return (
     <li>
-      <img src={img ? img : "src/assets/images/us2.png"} alt="user" />
+      <img
+        src={
+          img
+            ? img
+            : "https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/us2.png"
+        }
+        alt="user"
+      />
       <b>
         {name} <span>{isOnline ? "Online" : "Offline"}</span>
       </b>

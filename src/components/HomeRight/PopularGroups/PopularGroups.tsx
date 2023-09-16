@@ -8,7 +8,10 @@ export const PopularGroups = () => {
           <i className="fa-solid fa-magnifying-glass"></i>
         </li>
         <li>
-          <img src="src/assets/images/group.jpg" alt="groups" />
+          <img
+            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/group.jpg"
+            alt="groups"
+          />
         </li>
         <li>
           <b>

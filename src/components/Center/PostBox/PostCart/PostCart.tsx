@@ -4,7 +4,7 @@ export const PostCart = () => {
   return (
     <div className="fb-p1-main">
       <div className="post-title">
-        <Avatar img="src/assets/images/user2.jpg" />
+        <Avatar img="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/user2.jpg" />
         <ul>
           <li>
             <h3>
@@ -29,19 +29,31 @@ export const PostCart = () => {
 
       <div className="container-images">
         <div className="post-images1">
-          <img src="src/assets/images/pp.jpg" alt="post images 01" />
+          <img
+            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/pp.jpg"
+            alt="post images 01"
+          />
 
-          <img src="src/assets/images/pp2.jpg" alt="post images 02" />
+          <img
+            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/pp2.jpg"
+            alt="post images 02"
+          />
         </div>
         <div className="post-images2">
-          <img src="src/assets/images/pp4.jpg" alt="post images 04" />
+          <img
+            src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/pp4.jpg"
+            alt="post images 04"
+          />
         </div>
       </div>
 
       <div className="like-comment">
         <ul>
           <li className="love-leke">
-            <img src="src/assets/images/love.png" alt="love" />
+            <img
+              src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/love.png"
+              alt="love"
+            />
             <span>153 понравилось</span>
           </li>
           <li>

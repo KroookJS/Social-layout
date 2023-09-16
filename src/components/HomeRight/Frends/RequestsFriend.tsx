@@ -2,7 +2,10 @@ export const RequestsFriend = () => {
   return (
     <>
       <li>
-        <img src="src/assets/images/user4.jpg" alt="user" />
+        <img
+          src="https://github.com/KroookJS/Social-layout/blob/main/src/assets/images/user4.jpg"
+          alt="user"
+        />
       </li>
       <li className="request-bio">
         <b>Вафо Сардаров</b>
